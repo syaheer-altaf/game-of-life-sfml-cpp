@@ -15,7 +15,7 @@ This project is a simple simulation of Conway's Game of Life. The Game of Life i
 ### Cloning and Building from Source
 1. Clone the repository:
 ```
-git clone [URL of your repository]
+git clone https://github.com/syaheer-altaf/game-of-life-sfml-cpp.git
 
 ```
 2. Navigate to the `source code` folder:
