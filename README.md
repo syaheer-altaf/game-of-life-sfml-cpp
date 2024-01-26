@@ -38,7 +38,7 @@ After successful installation, run the program from the command line or by execu
 Contributions to this project are welcome. Please ensure that you adhere to the project's coding standards and submit a pull request for any changes.
 
 ## License
-License [./LICENSE].
+[License](./LICENSE).
 
 ---
 Enjoy exploring the fascinating world of cellular automata through Conway's Game of Life!
