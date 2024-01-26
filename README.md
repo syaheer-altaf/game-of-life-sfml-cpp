@@ -16,18 +16,15 @@ This project is a simple simulation of Conway's Game of Life. The Game of Life i
 1. Clone the repository:
 ```
 git clone https://github.com/syaheer-altaf/game-of-life-sfml-cpp.git
-
 ```
 2. Navigate to the `source code` folder:
 ```
 cd "source code"
-
 ```
 3. In the `Makefile`, update the paths to your SFML library's include and lib directories.
 4. Build the game using the Makefile:
 ```
 make game
-
 ```
 5. Ensure that the shared libraries `sfml-graphics`, `sfml-window`, and `sfml-system` are in your working directory, or include the `bin` folder of SFML in your environment path.
 
@@ -41,7 +38,7 @@ After successful installation, run the program from the command line or by execu
 Contributions to this project are welcome. Please ensure that you adhere to the project's coding standards and submit a pull request for any changes.
 
 ## License
-[./LICENSE]
+License [./LICENSE].
 
 ---
 Enjoy exploring the fascinating world of cellular automata through Conway's Game of Life!
